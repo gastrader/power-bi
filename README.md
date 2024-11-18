@@ -3,6 +3,8 @@
 ## Overview  
 This project focuses on analyzing and visualizing the [DataCo Smart Supply Chain dataset](https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis). The goal is to clean, manipulate, and create interactive visualizations to track key metrics, including sales and shipping performance, while enabling year-based filtering.
 
+Please download the .pbix file to inspect on your local machine!
+
 ---
 
 ## Objectives  
