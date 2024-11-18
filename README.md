@@ -70,5 +70,9 @@ Create interactive, filterable charts to explore key metrics:
 
 ### 5. Dynamic Filtering  
 Enable slicers or dropdowns to filter by `Order Year`, updating all visualizations dynamically.
+![powerbi](https://github.com/user-attachments/assets/ba854bc8-b0aa-4ea1-bc50-6b74a830117e)
+
+Now filter the visuals by 2016:
+![powerbi2](https://github.com/user-attachments/assets/68a14e5a-e681-4d6c-ac7d-da5e4ed92a39)
 
 ---
