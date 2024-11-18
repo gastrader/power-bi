@@ -54,19 +54,19 @@ Create interactive, filterable charts to explore key metrics:
 
 #### Graphs:
 1. **Sales by Country**  
-   - Bar chart of total sales by country with color-coded performance.  
+   - Treemap of total sales by country.  
 
 2. **On-Time Rate (OTR) Trends**  
-   - Line chart displaying OTR over time, filterable by year.  
+   - Pie chart displaying OTR, filterable by year.  
 
 3. **OTR by Country**  
    - Scatter plot comparing OTR by country, highlighting outliers.  
 
 4. **OTR by Shipping Mode**  
-   - Stacked bar chart showing OTR for `Standard Class`, `First Class`, `Second Class`, and `Same Day`.  
+   - Clustered column chart showing OTR for `Standard Class`, `First Class`, `Second Class`, and `Same Day`.  
 
 5. **Order Breakdown (On-Time vs. Late)**  
-   - Pie or area chart showing the proportion of on-time vs. late orders by quarter.
+   - Stacked bar chart showing the proportion of on-time vs. late orders by quarter.
 
 ### 5. Dynamic Filtering  
 Enable slicers or dropdowns to filter by `Order Year`, updating all visualizations dynamically.
